@@ -310,5 +310,31 @@
           "https://www.kibbleswap.dog/swap?from=wdoge&to=0x1e1026ba0810e6391b0f86afa8a9305c12713b66",
         "network": "doge",
         "createdAt": 2167677
+    },
+    {
+        "id": "kibbleswap-wwdoge-chewy",
+        "name": "WWDOGE-CHEWY LP",
+        "token": "WWDOGE-CHEWY LP",
+        "tokenAddress": "0x7b952cc5887c8806d7a277071474dbdaa1ab36a6",
+        "tokenDecimals": 18,
+        "tokenProviderId": "KibbleSwap",
+        "earnedToken": "kibbleswap-wwdoge-chewy",
+        "earnedTokenAddress": "0x453f3D8ecD4188Bfa8E6e5Dd5c84CA8D0d627ceF",
+        "earnContractAddress": "0x453f3D8ecD4188Bfa8E6e5Dd5c84CA8D0d627ceF",
+        "oracle": "lps",
+        "oracleId": "kibbleswap-wwdoge-chewy",
+        "status": "active",
+        "platform": "KibbleSwap",
+        "strategyTypeId": "lp",
+        "assets": ["DOGE", "CHEWY"],
+        "risks": [
+          "COMPLEXITY_LOW"
+        ],
+        "addLiquidityUrl":
+          "https://www.kibbleswap.dog/liquidity/pool?main=0xB7ddC6414bf4F5515b52D8BdD69973Ae205ff101&base=0xbA2fa659f475f69EeEFa245523DBa9C14BbA7163",
+        "buyTokenUrl":
+          "https://www.kibbleswap.dog/swap?from=wdoge&to=0xbA2fa659f475f69EeEFa245523DBa9C14BbA7163",
+        "network": "doge",
+        "createdAt": 2167889
     }
 ]
