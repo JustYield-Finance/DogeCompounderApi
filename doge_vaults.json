@@ -232,5 +232,31 @@
           "https://www.kibbleswap.dog/swap?from=wdoge&to=0x639A647fbe20b6c8ac19E48E2de44ea792c62c5C",
         "network": "doge",
         "createdAt": 2161089
+    },
+    {
+        "id": "kibbleswap-dc-wwdoge",
+        "name": "DC-WWDOGE LP",
+        "token": "DC-WWDOGE LP",
+        "tokenAddress": "0x4a1442143b3491a8edeb19c9cf7cdd9f7fe39b97",
+        "tokenDecimals": 18,
+        "tokenProviderId": "KibbleSwap",
+        "earnedToken": "kibbleswap-dc-wwdoge",
+        "earnedTokenAddress": "0x2C6746A13b34e8720FdfD25d2836ccc218Ba6E6E",
+        "earnContractAddress": "0x2C6746A13b34e8720FdfD25d2836ccc218Ba6E6E",
+        "oracle": "lps",
+        "oracleId": "kibbleswap-dc-wwdoge",
+        "status": "active",
+        "platform": "KibbleSwap",
+        "strategyTypeId": "lp",
+        "assets": ["DC", "DOGE"],
+        "risks": [
+          "COMPLEXITY_LOW"
+        ],
+        "addLiquidityUrl":
+          "https://www.kibbleswap.dog/liquidity/pool?main=0x7B4328c127B85369D9f82ca0503B000D09CF9180&base=0xB7ddC6414bf4F5515b52D8BdD69973Ae205ff101",
+        "buyTokenUrl":
+          "https://www.kibbleswap.dog/swap?from=wdoge&to=0x7B4328c127B85369D9f82ca0503B000D09CF9180",
+        "network": "doge",
+        "createdAt": 2161293
     }
 ]
