@@ -131,8 +131,8 @@
     },
     {
         "id": "kibbleswap-usdts-usdt",
-        "name": "USDTS-USDT LP",
-        "token": "USDTS-USDT LP",
+        "name": "USDTs-USDT LP",
+        "token": "USDTs-USDT LP",
         "tokenAddress": "0x44324c9ff5888003495989da9126a2b2e02b1ce6",
         "tokenDecimals": 18,
         "tokenProviderId": "KibbleSwap",
@@ -144,7 +144,7 @@
         "status": "active",
         "platform": "KibbleSwap",
         "strategyTypeId": "lp",
-        "assets": ["USDTS", "USDT"],
+        "assets": ["USDTs", "USDT"],
         "risks": [
           "COMPLEXITY_LOW"
         ],
