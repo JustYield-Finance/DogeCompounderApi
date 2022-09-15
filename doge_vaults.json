@@ -258,5 +258,31 @@
           "https://www.kibbleswap.dog/swap?from=wdoge&to=0x7B4328c127B85369D9f82ca0503B000D09CF9180",
         "network": "doge",
         "createdAt": 2161293
+    },
+    {
+        "id": "kibbleswap-usdcm-usdc",
+        "name": "USDCm-USDC LP",
+        "token": "USDCm-USDC LP",
+        "tokenAddress": "0xbcb74543c6cc593bbfb129dd3cca92f6baa49b12",
+        "tokenDecimals": 18,
+        "tokenProviderId": "KibbleSwap",
+        "earnedToken": "kibbleswap-usdcm-usdc",
+        "earnedTokenAddress": "0x1d0B1bF3a56F7727AF1e3167dBA22429D2dA99d0",
+        "earnContractAddress": "0x1d0B1bF3a56F7727AF1e3167dBA22429D2dA99d0",
+        "oracle": "lps",
+        "oracleId": "kibbleswap-usdcm-usdc",
+        "status": "active",
+        "platform": "KibbleSwap",
+        "strategyTypeId": "lp",
+        "assets": ["USDCm", "USDC"],
+        "risks": [
+          "COMPLEXITY_LOW"
+        ],
+        "addLiquidityUrl":
+          "https://www.kibbleswap.dog/liquidity/pool?main=0x765277EebeCA2e31912C9946eAe1021199B39C61&base=0x85C2D3bEBffD83025910985389aB8aD655aBC946",
+        "buyTokenUrl":
+          "https://www.kibbleswap.dog/swap?from=wdoge&to=0x765277EebeCA2e31912C9946eAe1021199B39C61",
+        "network": "doge",
+        "createdAt": 2161573
     }
 ]
