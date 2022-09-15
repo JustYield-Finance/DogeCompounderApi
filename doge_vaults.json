@@ -3,30 +3,26 @@
         "id": "kibbleswap-kib-wwdoge",
         "name": "KIB-WWDOGE LP",
         "token": "KIB-WWDOGE LP",
-        "tokenDescription": "KibbleSwap",
         "tokenAddress": "0xc1c10b8beec82e840990a2c60a54ccdb39b2153f",
         "tokenDecimals": 18,
-        "tokenDescriptionUrl": "#",
+        "tokenProviderId": "KibbleSwap",
         "earnedToken": "mooKibbleswapKIB-WWDOGE",
         "earnedTokenAddress": "0x3c4F3d77f6C0B318f0cc90b9d5335a15E2C9bbc6",
         "earnContractAddress": "0x3c4F3d77f6C0B318f0cc90b9d5335a15E2C9bbc6",
-        "pricePerFullShare": 1,
-        "tvl": 0,
         "oracle": "lps",
         "oracleId": "kibbleswap-kib-wwdoge",
-        "oraclePrice": 0,
-        "depositsPaused": false,
         "status": "active",
         "platform": "KibbleSwap",
+        "strategyTypeId": "lp",
         "assets": ["DOGE", "KIB"],
         "risks": [
           "COMPLEXITY_LOW"
         ],
-        "stratType": "StratLP",
         "addLiquidityUrl":
           "https://www.kibbleswap.dog/liquidity/pool?main=0x1e1026ba0810e6391b0f86afa8a9305c12713b66&base=0xb7ddc6414bf4f5515b52d8bdd69973ae205ff101",
         "buyTokenUrl":
           "https://www.kibbleswap.dog/swap?from=wdoge&to=0x1e1026ba0810e6391b0f86afa8a9305c12713b66",
+        "network": "doge",
         "createdAt": 2104460
     }
 ]
