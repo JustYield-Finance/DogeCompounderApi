@@ -154,5 +154,31 @@
           "https://www.kibbleswap.dog/swap?from=wdoge&to=0x7f8e71DD5A7e445725F0EF94c7F01806299e877A",
         "network": "doge",
         "createdAt": 2152281
+    },
+    {
+        "id": "kibbleswap-daim-dai",
+        "name": "DAIm-DAI LP",
+        "token": "DAIm-DAI LP",
+        "tokenAddress": "0x30bd958928ff4b532000c49f321d26c0814271f8",
+        "tokenDecimals": 18,
+        "tokenProviderId": "KibbleSwap",
+        "earnedToken": "kibbleswap-daim-dai",
+        "earnedTokenAddress": "0x528Da87ed04c44D75Ed0892ECC5341d1c9139cae",
+        "earnContractAddress": "0x528Da87ed04c44D75Ed0892ECC5341d1c9139cae",
+        "oracle": "lps",
+        "oracleId": "kibbleswap-daim-dai",
+        "status": "active",
+        "platform": "KibbleSwap",
+        "strategyTypeId": "lp",
+        "assets": ["DAIm", "DAI"],
+        "risks": [
+          "COMPLEXITY_LOW"
+        ],
+        "addLiquidityUrl":
+          "https://www.kibbleswap.dog/liquidity/pool?main=0x639A647fbe20b6c8ac19E48E2de44ea792c62c5C&base=0xB3306f03595490e5cC3a1b1704a5a158D3436ffC",
+        "buyTokenUrl":
+          "https://www.kibbleswap.dog/swap?from=wdoge&to=0x639A647fbe20b6c8ac19E48E2de44ea792c62c5C",
+        "network": "doge",
+        "createdAt": 2160503
     }
 ]
