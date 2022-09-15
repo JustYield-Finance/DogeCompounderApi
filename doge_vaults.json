@@ -388,5 +388,31 @@
           "https://app.yodeswap.dog/exchange/swap",
         "network": "doge",
         "createdAt": 2169118
+    },
+    {
+        "id": "yodeswap-usdc-eth",
+        "name": "USDC-ETH LP",
+        "token": "USDC-ETH LP",
+        "tokenAddress": "0x7a3542fada818c705e1ce6da508f5aa5dfc35edd",
+        "tokenDecimals": 18,
+        "tokenProviderId": "YodeSwap",
+        "earnedToken": "yodeswap-usdc-eth",
+        "earnedTokenAddress": "0xC9f885FF2917DA1e6244Eed8844F3Ed8C7544Cb5",
+        "earnContractAddress": "0xC9f885FF2917DA1e6244Eed8844F3Ed8C7544Cb5",
+        "oracle": "lps",
+        "oracleId": "yodeswap-usdc-eth",
+        "status": "active",
+        "platform": "YodeSwap",
+        "strategyTypeId": "lp",
+        "assets": ["USDC", "ETH"],
+        "risks": [
+          "COMPLEXITY_LOW"
+        ],
+        "addLiquidityUrl":
+          "https://app.yodeswap.dog/exchange/add/0x765277EebeCA2e31912C9946eAe1021199B39C61/0xB44a9B6905aF7c801311e8F4E76932ee959c663C",
+        "buyTokenUrl":
+          "https://app.yodeswap.dog/exchange/swap",
+        "network": "doge",
+        "createdAt": 2169314
     }
 ]
