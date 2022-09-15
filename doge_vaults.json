@@ -336,5 +336,31 @@
           "https://www.kibbleswap.dog/swap?from=wdoge&to=0xbA2fa659f475f69EeEFa245523DBa9C14BbA7163",
         "network": "doge",
         "createdAt": 2167889
+    },
+    {
+        "id": "yodeswap-yode-wwdoge",
+        "name": "YODE-WWDOGE LP",
+        "token": "YODE-WWDOGE LP",
+        "tokenAddress": "0x2dd53abcfebe71a9cd5dff4f44458e14707f9280",
+        "tokenDecimals": 18,
+        "tokenProviderId": "YodeSwap",
+        "earnedToken": "yodeswap-yode-wwdoge",
+        "earnedTokenAddress": "0x3B1a999a6319DAa3CfE21aAe27B86CAf2636b886",
+        "earnContractAddress": "0x3B1a999a6319DAa3CfE21aAe27B86CAf2636b886",
+        "oracle": "lps",
+        "oracleId": "yodeswap-yode-wwdoge",
+        "status": "active",
+        "platform": "YodeSwap",
+        "strategyTypeId": "lp",
+        "assets": ["YODE", "DOGE"],
+        "risks": [
+          "COMPLEXITY_LOW"
+        ],
+        "addLiquidityUrl":
+          "https://app.yodeswap.dog/exchange/add/0x6FC4563460d5f45932C473334d5c1C5B4aEA0E01/0xB7ddC6414bf4F5515b52D8BdD69973Ae205ff101",
+        "buyTokenUrl":
+          "https://app.yodeswap.dog/exchange/swap",
+        "network": "doge",
+        "createdAt": 2168775
     }
 ]
