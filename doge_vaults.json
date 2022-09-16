@@ -492,5 +492,31 @@
           "https://app.yodeswap.dog/exchange/swap",
         "network": "doge",
         "createdAt": 2184329
+    },
+    {
+        "id": "yodeswap-busd-usdc",
+        "name": "BUSD-USDC LP",
+        "token": "BUSD-USDC LP",
+        "tokenAddress": "0xe180b62c4cf96112e7999200ef9275f83f7e3088",
+        "tokenDecimals": 18,
+        "tokenProviderId": "YodeSwap",
+        "earnedToken": "yodeswap-busd-usdc",
+        "earnedTokenAddress": "0xA4d62e0670CB05c8664a3E6cC564c72a710f45AD",
+        "earnContractAddress": "0xA4d62e0670CB05c8664a3E6cC564c72a710f45AD",
+        "oracle": "lps",
+        "oracleId": "yodeswap-busd-usdc",
+        "status": "active",
+        "platform": "YodeSwap",
+        "strategyTypeId": "lp",
+        "assets": ["BUSD", "USDC"],
+        "risks": [
+          "COMPLEXITY_LOW"
+        ],
+        "addLiquidityUrl":
+          "https://app.yodeswap.dog/exchange/add/0x332730a4F6E03D9C55829435f10360E13cfA41Ff/0x332730a4F6E03D9C55829435f10360E13cfA41Ff",
+        "buyTokenUrl":
+          "https://app.yodeswap.dog/exchange/swap",
+        "network": "doge",
+        "createdAt": 2184549
     }
 ]
