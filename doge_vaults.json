@@ -440,5 +440,32 @@
           "https://app.yodeswap.dog/exchange/swap",
         "network": "doge",
         "createdAt": 2183962
+    },
+    {
+        "id": "yodeswap-usdc-usdt",
+        "name": "USDC-USDT LP",
+        "token": "USDC-USDT LP",
+        "tokenAddress": "0xd95b66fbd36c5754fe7c837500cccbf113fd6ac6",
+        "tokenDecimals": 18,
+        "tokenProviderId": "YodeSwap",
+        "earnedToken": "yodeswap-usdc-usdt",
+        "earnedTokenAddress": "0xB6EDB218356BD9Cd6773Aba02ce49C0e9C2F44Af",
+        "earnContractAddress": "0xB6EDB218356BD9Cd6773Aba02ce49C0e9C2F44Af",
+        "oracle": "lps",
+        "oracleId": "yodeswap-usdc-usdt",
+        "status": "active",
+        "platform": "YodeSwap",
+        "strategyTypeId": "lp",
+        "assets": ["USDC", "USDT"],
+        "risks": [
+          "COMPLEXITY_LOW"
+        ],
+        "addLiquidityUrl":
+          "https://app.yodeswap.dog/exchange/add/0x765277EebeCA2e31912C9946eAe1021199B39C61/0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D",
+        "buyTokenUrl":
+          "https://app.yodeswap.dog/exchange/swap",
+        "network": "doge",
+        "createdAt": 2184155
+
     }
 ]
