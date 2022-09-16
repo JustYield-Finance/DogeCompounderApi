@@ -466,6 +466,31 @@
           "https://app.yodeswap.dog/exchange/swap",
         "network": "doge",
         "createdAt": 2184155
-
+    },
+    {
+        "id": "yodeswap-busd-bnb",
+        "name": "BUSD-BNB LP",
+        "token": "BUSD-BNB LP",
+        "tokenAddress": "0xf4887cef251e6bafed9478f115b92aeba81d88f7",
+        "tokenDecimals": 18,
+        "tokenProviderId": "YodeSwap",
+        "earnedToken": "yodeswap-busd-bnb",
+        "earnedTokenAddress": "0x8F49e215D6d5f52b2A4647F4C339809D8fc46928",
+        "earnContractAddress": "0x8F49e215D6d5f52b2A4647F4C339809D8fc46928",
+        "oracle": "lps",
+        "oracleId": "yodeswap-busd-bnb",
+        "status": "active",
+        "platform": "YodeSwap",
+        "strategyTypeId": "lp",
+        "assets": ["BUSD", "BNB"],
+        "risks": [
+          "COMPLEXITY_LOW"
+        ],
+        "addLiquidityUrl":
+          "https://app.yodeswap.dog/exchange/add/0x332730a4F6E03D9C55829435f10360E13cfA41Ff/0xA649325Aa7C5093d12D6F98EB4378deAe68CE23F",
+        "buyTokenUrl":
+          "https://app.yodeswap.dog/exchange/swap",
+        "network": "doge",
+        "createdAt": 2184329
     }
 ]
