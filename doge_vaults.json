@@ -518,5 +518,31 @@
           "https://app.yodeswap.dog/exchange/swap",
         "network": "doge",
         "createdAt": 2184549
+    },
+    {
+        "id": "yodeswap-dc-wwdoge",
+        "name": "DC-WWDOGE LP",
+        "token": "DC-WWDOGE LP",
+        "tokenAddress": "0xd2333137d28710aced9e8572d8bf4baf184e6d16",
+        "tokenDecimals": 18,
+        "tokenProviderId": "YodeSwap",
+        "earnedToken": "yodeswap-dc-wwdoge",
+        "earnedTokenAddress": "0xEfC331fA34cAcE8A490Dce46aE31c03725Ea1049",
+        "earnContractAddress": "0xEfC331fA34cAcE8A490Dce46aE31c03725Ea1049",
+        "oracle": "lps",
+        "oracleId": "yodeswap-dc-wwdoge",
+        "status": "active",
+        "platform": "YodeSwap",
+        "strategyTypeId": "lp",
+        "assets": ["DC", "DOGE"],
+        "risks": [
+          "COMPLEXITY_LOW"
+        ],
+        "addLiquidityUrl":
+          "https://app.yodeswap.dog/exchange/add/0x7B4328c127B85369D9f82ca0503B000D09CF9180/0xB7ddC6414bf4F5515b52D8BdD69973Ae205ff101",
+        "buyTokenUrl":
+          "https://app.yodeswap.dog/exchange/swap",
+        "network": "doge",
+        "createdAt": 2184690
     }
 ]
