@@ -414,5 +414,31 @@
           "https://app.yodeswap.dog/exchange/swap",
         "network": "doge",
         "createdAt": 2169314
+    },
+    {
+        "id": "yodeswap-usdc-wbtc",
+        "name": "USDC-WBTC LP",
+        "token": "USDC-WBTC LP",
+        "tokenAddress": "0x5ac5529f6d948d565a7832b0950592845b029584",
+        "tokenDecimals": 18,
+        "tokenProviderId": "YodeSwap",
+        "earnedToken": "yodeswap-usdc-wbtc",
+        "earnedTokenAddress": "0x776cf4Ad4B48E7B5f196A2380aB7753587930c7d",
+        "earnContractAddress": "0x776cf4Ad4B48E7B5f196A2380aB7753587930c7d",
+        "oracle": "lps",
+        "oracleId": "yodeswap-usdc-wbtc",
+        "status": "active",
+        "platform": "YodeSwap",
+        "strategyTypeId": "lp",
+        "assets": ["USDC", "WBTC"],
+        "risks": [
+          "COMPLEXITY_LOW"
+        ],
+        "addLiquidityUrl":
+          "https://app.yodeswap.dog/exchange/add/0x765277EebeCA2e31912C9946eAe1021199B39C61/0xfA9343C3897324496A05fC75abeD6bAC29f8A40f",
+        "buyTokenUrl":
+          "https://app.yodeswap.dog/exchange/swap",
+        "network": "doge",
+        "createdAt": 2183962
     }
 ]
