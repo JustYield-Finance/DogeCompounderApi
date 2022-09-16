@@ -513,7 +513,7 @@
           "COMPLEXITY_LOW"
         ],
         "addLiquidityUrl":
-          "https://app.yodeswap.dog/exchange/add/0x332730a4F6E03D9C55829435f10360E13cfA41Ff/0x332730a4F6E03D9C55829435f10360E13cfA41Ff",
+          "https://app.yodeswap.dog/exchange/add/0x332730a4F6E03D9C55829435f10360E13cfA41Ff/0x765277EebeCA2e31912C9946eAe1021199B39C61",
         "buyTokenUrl":
           "https://app.yodeswap.dog/exchange/swap",
         "network": "doge",
