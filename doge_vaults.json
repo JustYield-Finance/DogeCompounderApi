@@ -674,5 +674,31 @@
           "https://exchange.boneswap.dog/#/swap",
         "network": "doge",
         "createdAt": 2314562
+    },
+    {
+        "id": "boneswap-busd-usdc",
+        "name": "BUSD-USDC LP",
+        "token": "BUSD-USDC LP",
+        "tokenAddress": "0x1d43d0f79bb55e4e799883dafb545f5d5f702bd6",
+        "tokenDecimals": 18,
+        "tokenProviderId": "BoneSwap",
+        "earnedToken": "boneswap-busd-usdc",
+        "earnedTokenAddress": "0xE7B1278EcF2e03AE706ADd9D8877dAFa67f8d344",
+        "earnContractAddress": "0xE7B1278EcF2e03AE706ADd9D8877dAFa67f8d344",
+        "oracle": "lps",
+        "oracleId": "boneswap-busd-usdc",
+        "status": "active",
+        "platform": "BoneSwap",
+        "strategyTypeId": "lp",
+        "assets": ["BUSD", "USDC"],
+        "risks": [
+          "COMPLEXITY_LOW"
+        ],
+        "addLiquidityUrl":
+          "https://exchange.boneswap.dog/#/add/0x332730a4F6E03D9C55829435f10360E13cfA41Ff/0x765277EebeCA2e31912C9946eAe1021199B39C61",
+        "buyTokenUrl":
+          "https://exchange.boneswap.dog/#/swap",
+        "network": "doge",
+        "createdAt": 2314761
     }
 ]
