@@ -700,5 +700,31 @@
           "https://exchange.boneswap.dog/#/swap",
         "network": "doge",
         "createdAt": 2314761
+    },
+    {
+        "id": "boneswap-busd-wwdoge",
+        "name": "BUSD-WWDOGE LP",
+        "token": "BUSD-WWDOGE LP",
+        "tokenAddress": "0x44b2f983b69c9d1f4e9e777ca181328ec136ae45",
+        "tokenDecimals": 18,
+        "tokenProviderId": "BoneSwap",
+        "earnedToken": "boneswap-busd-wwdoge",
+        "earnedTokenAddress": "0x5b2C0dBe9Ec6349793De9fB75DcDadDfB7F98aA1",
+        "earnContractAddress": "0x5b2C0dBe9Ec6349793De9fB75DcDadDfB7F98aA1",
+        "oracle": "lps",
+        "oracleId": "boneswap-busd-wwdoge",
+        "status": "active",
+        "platform": "BoneSwap",
+        "strategyTypeId": "lp",
+        "assets": ["BUSD", "DOGE"],
+        "risks": [
+          "COMPLEXITY_LOW"
+        ],
+        "addLiquidityUrl":
+          "https://exchange.boneswap.dog/#/add/0x332730a4F6E03D9C55829435f10360E13cfA41Ff/0xb7ddc6414bf4f5515b52d8bdd69973ae205ff101",
+        "buyTokenUrl":
+          "https://exchange.boneswap.dog/#/swap",
+        "network": "doge",
+        "createdAt": 2314901
     }
 ]
