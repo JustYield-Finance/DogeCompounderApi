@@ -731,7 +731,7 @@
         "id": "boneswap-busd-eth",
         "name": "BUSD-ETH LP",
         "token": "BUSD-ETH LP",
-        "tokenAddress": "0xf2E0774520756510D3e081710dde847D9943874B",
+        "tokenAddress": "0x7b7a1e7a5f71fea50d3c72673ad9ba6b0a3f2b57",
         "tokenDecimals": 18,
         "tokenProviderId": "BoneSwap",
         "earnedToken": "boneswap-busd-eth",
