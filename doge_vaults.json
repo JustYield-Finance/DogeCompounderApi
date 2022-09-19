@@ -596,5 +596,31 @@
           "https://app.yodeswap.dog/exchange/swap",
         "network": "doge",
         "createdAt": 2185134
+    },
+    {
+        "id": "boneswap-bone-wwdoge",
+        "name": "BONE-WWDOGE LP",
+        "token": "BONE-WWDOGE LP",
+        "tokenAddress": "0x552de336afae1cd17bf1df517403f686f550f21e",
+        "tokenDecimals": 18,
+        "tokenProviderId": "BoneSwap",
+        "earnedToken": "boneswap-bone-wwdoge",
+        "earnedTokenAddress": "0xA76b079E933E91565a6e9337C0860BE363240037",
+        "earnContractAddress": "0xA76b079E933E91565a6e9337C0860BE363240037",
+        "oracle": "lps",
+        "oracleId": "boneswap-bone-wwdoge",
+        "status": "active",
+        "platform": "BoneSwap",
+        "strategyTypeId": "lp",
+        "assets": ["BONE", "DOGE"],
+        "risks": [
+          "COMPLEXITY_LOW"
+        ],
+        "addLiquidityUrl":
+          "https://exchange.boneswap.dog/#/add/0x16d0046597b0E3B136CDBB4edEb956D04232A711/0xB7ddC6414bf4F5515b52D8BdD69973Ae205ff101",
+        "buyTokenUrl":
+          "https://exchange.boneswap.dog/#/swap",
+        "network": "doge",
+        "createdAt": 2313296
     }
 ]
