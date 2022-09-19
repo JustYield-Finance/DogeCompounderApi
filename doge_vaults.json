@@ -648,5 +648,31 @@
           "https://exchange.boneswap.dog/#/swap",
         "network": "doge",
         "createdAt": 2314300
+    },
+    {
+        "id": "boneswap-busd-usdt",
+        "name": "BUSD-USDT LP",
+        "token": "BUSD-USDT LP",
+        "tokenAddress": "0xa5f8d753f1a530a1e8a2b19ccada0600136a63f1",
+        "tokenDecimals": 18,
+        "tokenProviderId": "BoneSwap",
+        "earnedToken": "boneswap-busd-usdt",
+        "earnedTokenAddress": "0x60c48fc627C0377c58c02a6085A9E4bA2cF98A4B",
+        "earnContractAddress": "0x60c48fc627C0377c58c02a6085A9E4bA2cF98A4B",
+        "oracle": "lps",
+        "oracleId": "boneswap-busd-usdt",
+        "status": "active",
+        "platform": "BoneSwap",
+        "strategyTypeId": "lp",
+        "assets": ["BUSD", "USDT"],
+        "risks": [
+          "COMPLEXITY_LOW"
+        ],
+        "addLiquidityUrl":
+          "https://exchange.boneswap.dog/#/add/0x332730a4F6E03D9C55829435f10360E13cfA41Ff/0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D",
+        "buyTokenUrl":
+          "https://exchange.boneswap.dog/#/swap",
+        "network": "doge",
+        "createdAt": 2314562
     }
 ]
