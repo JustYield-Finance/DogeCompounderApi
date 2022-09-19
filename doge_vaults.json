@@ -726,5 +726,31 @@
           "https://exchange.boneswap.dog/#/swap",
         "network": "doge",
         "createdAt": 2314901
+    },
+    {
+        "id": "boneswap-busd-eth",
+        "name": "BUSD-ETH LP",
+        "token": "BUSD-ETH LP",
+        "tokenAddress": "0xf2E0774520756510D3e081710dde847D9943874B",
+        "tokenDecimals": 18,
+        "tokenProviderId": "BoneSwap",
+        "earnedToken": "boneswap-busd-eth",
+        "earnedTokenAddress": "0xf2E0774520756510D3e081710dde847D9943874B",
+        "earnContractAddress": "0xf2E0774520756510D3e081710dde847D9943874B",
+        "oracle": "lps",
+        "oracleId": "boneswap-busd-eth",
+        "status": "active",
+        "platform": "BoneSwap",
+        "strategyTypeId": "lp",
+        "assets": ["BUSD", "ETH"],
+        "risks": [
+          "COMPLEXITY_LOW"
+        ],
+        "addLiquidityUrl":
+          "https://exchange.boneswap.dog/#/add/0x332730a4F6E03D9C55829435f10360E13cfA41Ff/0xB44a9B6905aF7c801311e8F4E76932ee959c663C",
+        "buyTokenUrl":
+          "https://exchange.boneswap.dog/#/swap",
+        "network": "doge",
+        "createdAt": 2315047
     }
 ]
