@@ -1041,8 +1041,8 @@
     },
     {
         "id": "dogemuskswap-wbtc-usdc",
-        "name": "WBTC-WWDOGE LP",
-        "token": "WBTC-WWDOGE LP",
+        "name": "WBTC-USDC LP",
+        "token": "WBTC-USDC LP",
         "tokenAddress": "0xa0A8691FbBae41E5850BeDFEf5bF85DF4f2C7f47",
         "tokenDecimals": 18,
         "tokenProviderId": "MuskSwap",
@@ -1054,7 +1054,7 @@
         "status": "active",
         "platform": "MuskSwap",
         "strategyTypeId": "lp",
-        "assets": ["WBTC", "DOGE"],
+        "assets": ["WBTC", "USDC"],
         "risks": [
           "COMPLEXITY_LOW"
         ],
@@ -1067,8 +1067,8 @@
     },
     {
         "id": "dogemuskswap-weth-usdc",
-        "name": "WETH-WWDOGE LP",
-        "token": "WETH-WWDOGE LP",
+        "name": "WETH-USDC LP",
+        "token": "WETH-USDC LP",
         "tokenAddress": "0x7088c08aA2A653F65dBC078a4A3ccFa8518C82C9",
         "tokenDecimals": 18,
         "tokenProviderId": "MuskSwap",
@@ -1080,7 +1080,7 @@
         "status": "active",
         "platform": "MuskSwap",
         "strategyTypeId": "lp",
-        "assets": ["WETH", "DOGE"],
+        "assets": ["WETH", "USDC"],
         "risks": [
           "COMPLEXITY_LOW"
         ],
