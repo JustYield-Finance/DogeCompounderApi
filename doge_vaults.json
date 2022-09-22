@@ -1090,5 +1090,213 @@
           "https://muskswap.dog/swap",
         "network": "doge",
         "createdAt": 2316814
+    },
+    {
+        "id": "wojak-wojk-wwdoge",
+        "name": "WOJK-WWDOGE LP",
+        "token": "WOJK-WWDOGE LP",
+        "tokenAddress": "0xf4da9059f5bb18b50773fe1725b94fc189e1b75c",
+        "tokenDecimals": 18,
+        "tokenProviderId": "Wojak",
+        "earnedToken": "wojak-wojk-wwdoge",
+        "earnedTokenAddress": "",
+        "earnContractAddress": "",
+        "oracle": "lps",
+        "oracleId": "wojak-wojk-wwdoge",
+        "status": "active",
+        "platform": "Wojak",
+        "strategyTypeId": "lp",
+        "assets": ["WOJK", "DOGE"],
+        "risks": [
+          "COMPLEXITY_LOW"
+        ],
+        "addLiquidityUrl":
+          "https://wojak.fi/add",
+        "buyTokenUrl":
+          "https://wojak.fi/swap",
+        "network": "doge",
+        "createdAt": 2316814
+    },
+    {
+        "id": "wojak-usdc-wwdoge",
+        "name": "USDC-WWDOGE LP",
+        "token": "USDC-WWDOGE LP",
+        "tokenAddress": "0xcdbe962de3bdc40e790e48657721295c991d50e3",
+        "tokenDecimals": 18,
+        "tokenProviderId": "Wojak",
+        "earnedToken": "wojak-usdc-wwdoge",
+        "earnedTokenAddress": "",
+        "earnContractAddress": "",
+        "oracle": "lps",
+        "oracleId": "wojak-usdc-wwdoge",
+        "status": "active",
+        "platform": "Wojak",
+        "strategyTypeId": "lp",
+        "assets": ["USDC", "DOGE"],
+        "risks": [
+          "COMPLEXITY_LOW"
+        ],
+        "addLiquidityUrl":
+          "https://wojak.fi/add",
+        "buyTokenUrl":
+          "https://wojak.fi/swap",
+        "network": "doge",
+        "createdAt": 2316814
+    },
+    {
+        "id": "wojak-wojk-usdc",
+        "name": "WOJK-USDC LP",
+        "token": "WOJK-USDC LP",
+        "tokenAddress": "0xc1fabe61b9cfc005a51e1ea899c3d65fb6392497",
+        "tokenDecimals": 18,
+        "tokenProviderId": "Wojak",
+        "earnedToken": "wojak-wojk-usdc",
+        "earnedTokenAddress": "",
+        "earnContractAddress": "",
+        "oracle": "lps",
+        "oracleId": "wojak-wojk-usdc",
+        "status": "active",
+        "platform": "Wojak",
+        "strategyTypeId": "lp",
+        "assets": ["WOJK", "USDC"],
+        "risks": [
+          "COMPLEXITY_LOW"
+        ],
+        "addLiquidityUrl":
+          "https://wojak.fi/add",
+        "buyTokenUrl":
+          "https://wojak.fi/swap",
+        "network": "doge",
+        "createdAt": 2316814
+    },
+    {
+        "id": "wojak-usdc-usdt",
+        "name": "USDC-USDT LP",
+        "token": "USDC-USDT LP",
+        "tokenAddress": "0x4c7a746b038bf284316195733da8839959a550a0",
+        "tokenDecimals": 18,
+        "tokenProviderId": "Wojak",
+        "earnedToken": "wojak-usdc-usdt",
+        "earnedTokenAddress": "",
+        "earnContractAddress": "",
+        "oracle": "lps",
+        "oracleId": "wojak-usdc-usdt",
+        "status": "active",
+        "platform": "Wojak",
+        "strategyTypeId": "lp",
+        "assets": ["USDC", "USDT"],
+        "risks": [
+          "COMPLEXITY_LOW"
+        ],
+        "addLiquidityUrl":
+          "https://wojak.fi/add",
+        "buyTokenUrl":
+          "https://wojak.fi/swap",
+        "network": "doge",
+        "createdAt": 2316814
+    },
+    {
+        "id": "wojak-busd-usdc",
+        "name": "BUSD-USDC LP",
+        "token": "BUSD-USDC LP",
+        "tokenAddress": "0x311f8804aeecc98da11c128c96182c4b3e6a34e2",
+        "tokenDecimals": 18,
+        "tokenProviderId": "Wojak",
+        "earnedToken": "wojak-busd-usdc",
+        "earnedTokenAddress": "",
+        "earnContractAddress": "",
+        "oracle": "lps",
+        "oracleId": "wojak-busd-usdc",
+        "status": "active",
+        "platform": "Wojak",
+        "strategyTypeId": "lp",
+        "assets": ["BUSD", "USDC"],
+        "risks": [
+          "COMPLEXITY_LOW"
+        ],
+        "addLiquidityUrl":
+          "https://wojak.fi/add",
+        "buyTokenUrl":
+          "https://wojak.fi/swap",
+        "network": "doge",
+        "createdAt": 2316814
+    },
+    {
+        "id": "wojak-usdc-eth",
+        "name": "USDC-ETH LP",
+        "token": "USDC-ETH LP",
+        "tokenAddress": "0xefce65a87c385f8c3b5de0f7cdeae7633d72e14b",
+        "tokenDecimals": 18,
+        "tokenProviderId": "Wojak",
+        "earnedToken": "wojak-usdc-eth",
+        "earnedTokenAddress": "",
+        "earnContractAddress": "",
+        "oracle": "lps",
+        "oracleId": "wojak-usdc-eth",
+        "status": "active",
+        "platform": "Wojak",
+        "strategyTypeId": "lp",
+        "assets": ["USDC", "ETH"],
+        "risks": [
+          "COMPLEXITY_LOW"
+        ],
+        "addLiquidityUrl":
+          "https://wojak.fi/add",
+        "buyTokenUrl":
+          "https://wojak.fi/swap",
+        "network": "doge",
+        "createdAt": 2316814
+    },
+    {
+        "id": "wojak-usdc-bnb",
+        "name": "USDC-BNB LP",
+        "token": "USDC-BNB LP",
+        "tokenAddress": "0x1e7bf76e85bae55338924aba733d2deb68716b31",
+        "tokenDecimals": 18,
+        "tokenProviderId": "Wojak",
+        "earnedToken": "wojak-usdc-bnb",
+        "earnedTokenAddress": "",
+        "earnContractAddress": "",
+        "oracle": "lps",
+        "oracleId": "wojak-usdc-bnb",
+        "status": "active",
+        "platform": "Wojak",
+        "strategyTypeId": "lp",
+        "assets": ["USDC", "BNB"],
+        "risks": [
+          "COMPLEXITY_LOW"
+        ],
+        "addLiquidityUrl":
+          "https://wojak.fi/add",
+        "buyTokenUrl":
+          "https://wojak.fi/swap",
+        "network": "doge",
+        "createdAt": 2316814
+    },
+    {
+        "id": "wojak-dc-wwdoge",
+        "name": "DC-WWDOGE LP",
+        "token": "DC-WWDOGE LP",
+        "tokenAddress": "0xf63fb7511a26e442cb890d13f7bb7d7012f4941a",
+        "tokenDecimals": 18,
+        "tokenProviderId": "Wojak",
+        "earnedToken": "wojak-dc-wwdoge",
+        "earnedTokenAddress": "",
+        "earnContractAddress": "",
+        "oracle": "lps",
+        "oracleId": "wojak-dc-wwdoge",
+        "status": "active",
+        "platform": "Wojak",
+        "strategyTypeId": "lp",
+        "assets": ["DC", "DOGE"],
+        "risks": [
+          "COMPLEXITY_LOW"
+        ],
+        "addLiquidityUrl":
+          "https://wojak.fi/add",
+        "buyTokenUrl":
+          "https://wojak.fi/swap",
+        "network": "doge",
+        "createdAt": 2316814
     }
 ]
