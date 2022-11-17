@@ -10,7 +10,7 @@
         "earnedTokenAddress": "0xFa6D7bDB9793fc9921421000e78358ab3186deeD",
         "earnContractAddress": "0xFa6D7bDB9793fc9921421000e78358ab3186deeD",
         "oracle": "lps",
-        "oracleId": "bsc-single-busd",
+        "oracleId": "BUSD",
         "status": "active",
         "platform": "circle",
         "strategyTypeId": "single-lp",
