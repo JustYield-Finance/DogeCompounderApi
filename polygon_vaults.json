@@ -28,5 +28,35 @@
           "https://quickswap.exchange/#/swap?swapIndex=0&currency0=ETH&currency1=0xBbba073C31bF03b8ACf7c28EF0738DeCF3695683",
         "network": "polygon",
         "createdAt": 37019258
+    },
+    {
+        "id": "polygon-mai-usdc-quickswap",
+        "name": "MAI-USDC",
+        "token": "MAI-USDC",
+        "tokenAddress": "0x160532D2536175d65C03B97b0630A9802c274daD",
+        "tokenDecimals": 18,
+        "tokenProviderId": "quickswap",
+        "earnedToken": "bMAI-USDC",
+        "earnedTokenAddress": "0xfDD0E1C7adF02BCA984971BC71E4112f8a69E886",
+        "earnContractAddress": "0xfDD0E1C7adF02BCA984971BC71E4112f8a69E886",
+        "oracle": "lps",
+        "oracleId": "polygon-mai-usdc-quickswap",
+        "status": "active",
+        "platform": "quickswap",
+        "strategyTypeId": "lps",
+        "assets": ["MAI", "USDC"],
+        "risks": [
+          "BATTLE_TESTED",
+          "IL_NONE",
+          "MCAP_LARGE",
+          "AUDIT",
+          "CONTRACTS_VERIFIED"
+        ],
+        "addLiquidityUrl":
+          "",
+        "buyTokenUrl":
+          "https://quickswap.exchange/#/swap?swapIndex=0&currency0=ETH&currency1=0xBbba073C31bF03b8ACf7c28EF0738DeCF3695683",
+        "network": "polygon",
+        "createdAt": 37698187
     }
 ]
