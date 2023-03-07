@@ -241,7 +241,7 @@
         "id": "arbitrum-gmx-glp",
         "name": "GLP",
         "token": "GLP",
-        "tokenAddress": "0x1aDDD80E6039594eE970E5872D247bf0414C8903",
+        "tokenAddress": "0x2F546AD4eDD93B956C8999Be404cdCAFde3E89AE",
         "tokenDecimals": 18,
         "tokenProviderId": "circle",
         "earnedToken": "bGLP",
